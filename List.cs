@@ -6,9 +6,6 @@ using UnityEngine;
 
 namespace Foundation.Example
 {
-    /// <summary>
-    ///     Demonstration of a child view model
-    /// </summary>
     [AddComponentMenu("Foundation/Examples/ExampleScore")]
     public class ExampleScore : ObservableObject
     {
